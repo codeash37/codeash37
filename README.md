@@ -14,6 +14,8 @@ Backend by day, products by night. These days that mostly means making AI useful
 
 **[chat-sidecar](https://github.com/codeash37/chat-sidecar)**: a side pane for Claude Code that shows what the chat is doing, what's waiting on you, and what it uses.
 
+<img src="https://github.com/codeash37/chat-sidecar/raw/main/docs/demo.gif" alt="chat-sidecar demo" width="360">
+
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/damiansyczewski) · [damian.syczewski@gmail.com](mailto:damian.syczewski@gmail.com) · [menagio.app](https://menagio.app)
